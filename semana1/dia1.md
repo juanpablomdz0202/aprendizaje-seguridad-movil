@@ -33,3 +33,5 @@ No sabía cómo lanzar otra Activity desde Compose → lo resolví usando LocalC
 Seguir con manejo de permisos en Android (Día 2).
 
 Ver cómo persisten datos las tareas (porque ahora si roto la pantalla, se pierden).
+
+<img width="948" height="507" alt="logcat_dia1" src="https://github.com/user-attachments/assets/0c8bbc39-4222-4dc7-99a4-9d3c6d1e1d8e" />
