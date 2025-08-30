@@ -10,3 +10,4 @@ Cada día registro qué hice, qué aprendí, los problemas encontrados y ejemplo
 El repositorio está organizado por semanas y días para facilitar la navegación y seguimiento del progreso:
 
 
+<img width="1536" height="1024" alt="seguridad_mobile_repo" src="https://github.com/user-attachments/assets/c38fe6c6-7c14-49f5-99e1-82621cc24ea7" />
