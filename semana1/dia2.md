@@ -14,7 +14,12 @@ Hoy avancé en mi camino de **Seguridad Móvil / Desarrollo Android** repasando 
 ---
 
 ## 📸 Evidencia
-![Pantalla About](../imagenes/dia3_about.png)
+![Pantalla About]
+<img width="938" height="507" alt="dia2 1" src="https://github.com/user-attachments/assets/1ccbecf5-4e4d-48e1-be88-bda0a899cd23" />
+<img width="942" height="504" alt="dia2 2" src="https://github.com/user-attachments/assets/fbc11f71-727e-409d-aba2-bd0e4f654598" />
+<img width="939" height="506" alt="dia2" src="https://github.com/user-attachments/assets/a58c4536-b972-4181-b195-4ffde5ba6391" />
+
+
 
 > En la captura se ve la pantalla **About**, mostrando el mensaje recibido desde MainActivity.
 
