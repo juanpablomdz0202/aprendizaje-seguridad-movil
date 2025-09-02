@@ -1,4 +1,4 @@
-# 📱 Día 3 – Navegación entre Activities con Intents en Android
+# 📱 Día 2 – Navegación entre Activities con Intents en Android
 
 Hoy avancé en mi camino de **Seguridad Móvil / Desarrollo Android** repasando cómo funcionan los **Intents** para abrir nuevas pantallas (Activities) y pasar datos entre ellas.
 
@@ -35,9 +35,9 @@ Lo interesante es que los Intents no solo sirven para nuestras propias Activitie
 
 ## ✅ Próximos pasos
 - Practicar el **regreso de datos** desde `AboutActivity` hacia `MainActivity` (con `setResult` y `ActivityResult`).
-- Avanzar al **Día 4: Introducción a Fragments y navegación básica**.
+- Avanzar a **: Introducción a Fragments y navegación básica**.
 
 ---
 
-📌 Repo: [aprendizaje-seguridad-movil](https://github.com/TU-USUARIO/aprendizaje-seguridad-movil)  
+📌 Repo: [aprendizaje-seguridad-movil](https://github.com/juanpablomdz0202/aprendizaje-seguridad-movil/tree/main)  
 📌 Publicación: *Voy a compartir esto en LinkedIn para documentar mi progreso y motivar a otros 🚀*
