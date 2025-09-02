@@ -19,6 +19,30 @@ Hoy construí una mini app “ArchiNews” para practicar **Fragments** y apliqu
 - Navegación con `replace(...).addToBackStack(null)`.
 - <img width="931" height="508" alt="archinews" src="https://github.com/user-attachments/assets/930b1035-0907-4e86-bb1f-65783213e6b3" />
 
+🔐 Seguridad aplicada hoy (checklist)
+
+AboutActivity no exportada (android:exported="false") y sin intent-filter.
+
+MainActivity launcher con android:exported="true".
+
+Intents explícitos (sin implicar otras apps).
+
+Validación de extras con default (?: "Invitado" / "Sin noticia").
+
+Nada sensible en logs (Log.d solo para pruebas).
+
+Backups deshabilitados: android:allowBackup="false".
+
+HTTP plano deshabilitado: android:usesCleartextTraffic="false".
+
+Sin permisos innecesarios.
+
+Sin fragment injection (clases de fragment no provienen de entradas externas).
+
+🤔 Reflexión
+
+Además de agregar Fragments y back stack, preparé la app con un baseline de seguridad: componentes no exportados, Intents explícitos y defaults al recibir datos. Esto reduce riesgos típicos (Intent spoofing, inyección, fuga por logs) y me deja listo para integrar red segura (HTTPS) y persistencia con encriptado más adelante.
+
 
 **Código clave:**
 ```kotlin
