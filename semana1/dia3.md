@@ -1,4 +1,4 @@
-# 🏛️ Día 4 – App de Noticias de Arquitectura con Fragments (enfoque seguridad)
+# 🏛️ Día 3 – App de Noticias de Arquitectura con Fragments (enfoque seguridad)
 
 Hoy construí una mini app “ArchiNews” para practicar **Fragments** y apliqué controles de **seguridad móvil** desde el diseño.
 
