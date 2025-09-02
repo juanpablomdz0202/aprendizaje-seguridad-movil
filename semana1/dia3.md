@@ -17,6 +17,8 @@ Hoy construí una mini app “ArchiNews” para practicar **Fragments** y apliqu
 - `NewsListFragment` (ListView con titulares).
 - `NewsDetailFragment` (muestra detalle).
 - Navegación con `replace(...).addToBackStack(null)`.
+- <img width="931" height="508" alt="archinews" src="https://github.com/user-attachments/assets/930b1035-0907-4e86-bb1f-65783213e6b3" />
+
 
 **Código clave:**
 ```kotlin
@@ -34,4 +36,4 @@ listView.setOnItemClickListener { _, _, position, _ ->
 }
 // NewsDetailFragment: recibe el dato de forma segura (con default)
 val titulo = arguments?.getString(ARG_NEWS) ?: "Sin noticia"
-<img width="931" height="508" alt="archinews" src="https://github.com/user-attachments/assets/075239fe-8156-4714-bab2-a4f91be83a1e" />
+
